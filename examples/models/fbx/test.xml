@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcx"/>
+  <time Range="0-30400"/>
+  <cacheTimePerFrame TimePerFrame="200"/>
+  <cacheVersion Version="2.0"/>
+  <extra>CLO - Virtual Fashion Inc.</extra>
+  <extra>Marvelous</extra>
+  <Channels>
+    <channel0 ChannelName="Pattern2D468820Shape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="200" StartTime="0" EndTime="30400"/>
+  </Channels>
+  <Channels>
+    <channel1 ChannelName="Pattern2D468821Shape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="200" StartTime="0" EndTime="30400"/>
+  </Channels>
+  <Channels>
+    <channel2 ChannelName="Pattern2D468822Shape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="200" StartTime="0" EndTime="30400"/>
+  </Channels>
+  <Channels>
+    <channel3 ChannelName="Pattern2D468822Shape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="200" StartTime="0" EndTime="30400"/>
+  </Channels>
+  <Channels>
+    <channel4 ChannelName="Pattern2D1840435Shape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="200" StartTime="0" EndTime="30400"/>
+  </Channels>
+  <Channels>
+    <channel5 ChannelName="Pattern2D1840436Shape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="200" StartTime="0" EndTime="30400"/>
+  </Channels>
+</Autodesk_Cache_File>
